@@ -1,0 +1,520 @@
+{
+  "settings": {
+    "components": {
+      "code": true,
+      "binaries": false
+    },
+    "targetId": "",
+    "targetDisplayName": ".NET 8.0"
+  },
+  "analysisStartTime": "2024-06-19T23:27:38.1123071Z",
+  "analysisEndTime": "2024-06-19T23:27:54.3792295Z",
+  "stats": {
+    "summary": {
+      "projects": 17,
+      "issues": 5,
+      "incidents": 23,
+      "effort": 23
+    },
+    "charts": {
+      "severity": {
+        "Mandatory": 22,
+        "Optional": 0,
+        "Potential": 1,
+        "Information": 0
+      },
+      "category": {
+        "Project": 19,
+        "NuGet": 2,
+        "Api": 2
+      }
+    }
+  },
+  "projects": [
+    {
+      "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\Components\\AvalonDock\\AvalonDock.csproj",
+      "startingProject": true,
+      "issues": 1,
+      "storyPoints": 1,
+      "ruleInstances": [
+        {
+          "incidentId": "cc7e222a-328b-45d2-a455-52e44bbbff0b",
+          "ruleId": "Project.0002",
+          "projectPath": "W:\\source\\Careys-Freight\\AvalonDock\\source\\Components\\AvalonDock\\AvalonDock.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\Components\\AvalonDock\\AvalonDock.csproj",
+            "snippet": "Current: netcoreapp3.0;net5.0-windows;net40\nNew: net8.0-windows"
+          }
+        }
+      ]
+    },
+    {
+      "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\Components\\AvalonDock.Themes.Aero\\AvalonDock.Themes.Aero.csproj",
+      "startingProject": true,
+      "issues": 1,
+      "storyPoints": 1,
+      "ruleInstances": [
+        {
+          "incidentId": "503f9387-5987-437b-baff-b2f87b045586",
+          "ruleId": "Project.0002",
+          "projectPath": "W:\\source\\Careys-Freight\\AvalonDock\\source\\Components\\AvalonDock.Themes.Aero\\AvalonDock.Themes.Aero.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\Components\\AvalonDock.Themes.Aero\\AvalonDock.Themes.Aero.csproj",
+            "snippet": "Current: netcoreapp3.0;net5.0-windows;net40\nNew: net8.0-windows"
+          }
+        }
+      ]
+    },
+    {
+      "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\Components\\AvalonDock.Themes.Expression\\AvalonDock.Themes.Expression.csproj",
+      "startingProject": true,
+      "issues": 1,
+      "storyPoints": 1,
+      "ruleInstances": [
+        {
+          "incidentId": "68b939dd-0b04-47e8-9e00-b845c403b424",
+          "ruleId": "Project.0002",
+          "projectPath": "W:\\source\\Careys-Freight\\AvalonDock\\source\\Components\\AvalonDock.Themes.Expression\\AvalonDock.Themes.Expression.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\Components\\AvalonDock.Themes.Expression\\AvalonDock.Themes.Expression.csproj",
+            "snippet": "Current: netcoreapp3.0;net5.0-windows;net40\nNew: net8.0-windows"
+          }
+        }
+      ]
+    },
+    {
+      "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\Components\\AvalonDock.Themes.Metro\\AvalonDock.Themes.Metro.csproj",
+      "startingProject": true,
+      "issues": 1,
+      "storyPoints": 1,
+      "ruleInstances": [
+        {
+          "incidentId": "d75bf202-07c2-4e40-b016-140b3b20eb6c",
+          "ruleId": "Project.0002",
+          "projectPath": "W:\\source\\Careys-Freight\\AvalonDock\\source\\Components\\AvalonDock.Themes.Metro\\AvalonDock.Themes.Metro.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\Components\\AvalonDock.Themes.Metro\\AvalonDock.Themes.Metro.csproj",
+            "snippet": "Current: netcoreapp3.0;net5.0-windows;net40\nNew: net8.0-windows"
+          }
+        }
+      ]
+    },
+    {
+      "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\Components\\AvalonDock.Themes.VS2010\\AvalonDock.Themes.VS2010.csproj",
+      "startingProject": true,
+      "issues": 1,
+      "storyPoints": 1,
+      "ruleInstances": [
+        {
+          "incidentId": "60c06da0-f682-4d40-8d70-c3a56ec022e9",
+          "ruleId": "Project.0002",
+          "projectPath": "W:\\source\\Careys-Freight\\AvalonDock\\source\\Components\\AvalonDock.Themes.VS2010\\AvalonDock.Themes.VS2010.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\Components\\AvalonDock.Themes.VS2010\\AvalonDock.Themes.VS2010.csproj",
+            "snippet": "Current: netcoreapp3.0;net5.0-windows;net40\nNew: net8.0-windows"
+          }
+        }
+      ]
+    },
+    {
+      "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\Components\\AvalonDock.Themes.VS2013\\AvalonDock.Themes.VS2013.csproj",
+      "startingProject": true,
+      "issues": 1,
+      "storyPoints": 1,
+      "ruleInstances": [
+        {
+          "incidentId": "2cd198bd-b99f-4374-9895-c1b121cb8e4a",
+          "ruleId": "Project.0002",
+          "projectPath": "W:\\source\\Careys-Freight\\AvalonDock\\source\\Components\\AvalonDock.Themes.VS2013\\AvalonDock.Themes.VS2013.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\Components\\AvalonDock.Themes.VS2013\\AvalonDock.Themes.VS2013.csproj",
+            "snippet": "Current: netcoreapp3.0;net5.0-windows;net40\nNew: net8.0-windows"
+          }
+        }
+      ]
+    },
+    {
+      "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\AutomationTest\\AvalonDockTest\\AvalonDockTest.csproj",
+      "startingProject": true,
+      "issues": 2,
+      "storyPoints": 2,
+      "ruleInstances": [
+        {
+          "incidentId": "afb52965-49b6-44cb-ae7a-5744ba8b801b",
+          "ruleId": "NuGet.0001",
+          "projectPath": "W:\\source\\Careys-Freight\\AvalonDock\\source\\AutomationTest\\AvalonDockTest\\AvalonDockTest.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "Package",
+            "path": "MSTest.STAExtensions, 1.0.3-beta",
+            "snippet": "MSTest.STAExtensions, 1.0.3-beta\n\nRecommendation:\n\nNo supported version found"
+          }
+        },
+        {
+          "incidentId": "0ac8ca94-5525-441f-b1bb-efc90dc8d305",
+          "ruleId": "Project.0002",
+          "projectPath": "W:\\source\\Careys-Freight\\AvalonDock\\source\\AutomationTest\\AvalonDockTest\\AvalonDockTest.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\AutomationTest\\AvalonDockTest\\AvalonDockTest.csproj",
+            "snippet": "Current: netcoreapp3.0;net5.0-windows;net452\nNew: net8.0-windows"
+          }
+        }
+      ]
+    },
+    {
+      "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\AvalonDocPanelMemoryLeaks\\AvalonDocPanelMemoryLeaks.csproj",
+      "startingProject": true,
+      "issues": 2,
+      "storyPoints": 2,
+      "ruleInstances": [
+        {
+          "incidentId": "d33b3022-c853-49d0-9b90-63e7fd458cb3",
+          "ruleId": "Project.0001",
+          "projectPath": "W:\\source\\Careys-Freight\\AvalonDock\\source\\AvalonDocPanelMemoryLeaks\\AvalonDocPanelMemoryLeaks.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\AvalonDocPanelMemoryLeaks\\AvalonDocPanelMemoryLeaks.csproj"
+          }
+        },
+        {
+          "incidentId": "5e6d21db-292d-403b-a86b-7d9adc6a1518",
+          "ruleId": "Project.0002",
+          "projectPath": "W:\\source\\Careys-Freight\\AvalonDock\\source\\AvalonDocPanelMemoryLeaks\\AvalonDocPanelMemoryLeaks.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\AvalonDocPanelMemoryLeaks\\AvalonDocPanelMemoryLeaks.csproj",
+            "snippet": "Current: .NETFramework,Version=v4.8\nNew: net8.0-windows"
+          }
+        }
+      ]
+    },
+    {
+      "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\CaliburnDockTestApp\\CaliburnDockTestApp.csproj",
+      "startingProject": true,
+      "issues": 1,
+      "storyPoints": 1,
+      "ruleInstances": [
+        {
+          "incidentId": "ef1003da-5c3d-4de7-947b-ca61113be77d",
+          "ruleId": "Project.0002",
+          "projectPath": "W:\\source\\Careys-Freight\\AvalonDock\\source\\CaliburnDockTestApp\\CaliburnDockTestApp.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\CaliburnDockTestApp\\CaliburnDockTestApp.csproj",
+            "snippet": "Current: netcoreapp3.0;net5.0-windows;net452\nNew: net8.0-windows"
+          }
+        }
+      ]
+    },
+    {
+      "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\MLibTest\\MLibTest\\MLibTest.csproj",
+      "startingProject": true,
+      "issues": 1,
+      "storyPoints": 1,
+      "ruleInstances": [
+        {
+          "incidentId": "c7be70f5-ceff-4793-a2e5-5c850e5910ef",
+          "ruleId": "Project.0002",
+          "projectPath": "W:\\source\\Careys-Freight\\AvalonDock\\source\\MLibTest\\MLibTest\\MLibTest.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\MLibTest\\MLibTest\\MLibTest.csproj",
+            "snippet": "Current: netcoreapp3.0;net5.0-windows;net452\nNew: net8.0-windows"
+          }
+        }
+      ]
+    },
+    {
+      "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\MVVMTestApp\\MVVMTestApp.csproj",
+      "startingProject": true,
+      "issues": 1,
+      "storyPoints": 1,
+      "ruleInstances": [
+        {
+          "incidentId": "40e0cb71-e144-4050-826c-be4f7e54375f",
+          "ruleId": "Project.0002",
+          "projectPath": "W:\\source\\Careys-Freight\\AvalonDock\\source\\MVVMTestApp\\MVVMTestApp.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\MVVMTestApp\\MVVMTestApp.csproj",
+            "snippet": "Current: netcoreapp3.0;net5.0-windows;net40\nNew: net8.0-windows"
+          }
+        }
+      ]
+    },
+    {
+      "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\MLibTest\\MLibTest_Components\\ServiceLocator\\ServiceLocator.csproj",
+      "startingProject": true,
+      "issues": 1,
+      "storyPoints": 1,
+      "ruleInstances": [
+        {
+          "incidentId": "7ea7e505-bda6-45e6-9a34-1d4a8b46e047",
+          "ruleId": "Project.0002",
+          "projectPath": "W:\\source\\Careys-Freight\\AvalonDock\\source\\MLibTest\\MLibTest_Components\\ServiceLocator\\ServiceLocator.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\MLibTest\\MLibTest_Components\\ServiceLocator\\ServiceLocator.csproj",
+            "snippet": "Current: netcoreapp3.0;net5.0;net45\nNew: net8.0"
+          }
+        }
+      ]
+    },
+    {
+      "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\MLibTest\\MLibTest_Components\\Settings\\Settings\\Settings.csproj",
+      "startingProject": true,
+      "issues": 2,
+      "storyPoints": 2,
+      "ruleInstances": [
+        {
+          "incidentId": "89f9aff5-4fe7-4e5a-88da-c67fb678b93e",
+          "ruleId": "Project.0001",
+          "projectPath": "W:\\source\\Careys-Freight\\AvalonDock\\source\\MLibTest\\MLibTest_Components\\Settings\\Settings\\Settings.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\MLibTest\\MLibTest_Components\\Settings\\Settings\\Settings.csproj"
+          }
+        },
+        {
+          "incidentId": "2ae2a8d7-5fb7-49e7-93f2-345e3ff26fc2",
+          "ruleId": "Project.0002",
+          "projectPath": "W:\\source\\Careys-Freight\\AvalonDock\\source\\MLibTest\\MLibTest_Components\\Settings\\Settings\\Settings.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\MLibTest\\MLibTest_Components\\Settings\\Settings\\Settings.csproj",
+            "snippet": "Current: .NETFramework,Version=v4.8\nNew: net8.0-windows"
+          }
+        }
+      ]
+    },
+    {
+      "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\MLibTest\\MLibTest_Components\\Settings\\SettingsModel\\SettingsModel.csproj",
+      "startingProject": true,
+      "issues": 3,
+      "storyPoints": 4,
+      "ruleInstances": [
+        {
+          "incidentId": "dd1138e9-f33f-4d78-848d-142ea1285d1f",
+          "ruleId": "NuGet.0002",
+          "projectPath": "W:\\source\\Careys-Freight\\AvalonDock\\source\\MLibTest\\MLibTest_Components\\Settings\\SettingsModel\\SettingsModel.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "Package",
+            "path": "System.Security.Cryptography.ProtectedData, 4.6.0",
+            "snippet": "System.Security.Cryptography.ProtectedData, 4.6.0\n\nRecommendation:\n\nSystem.Security.Cryptography.ProtectedData 8.0.0"
+          }
+        },
+        {
+          "incidentId": "7b0e6b2b-96a7-42b2-8f42-889696c26b51",
+          "ruleId": "Project.0002",
+          "projectPath": "W:\\source\\Careys-Freight\\AvalonDock\\source\\MLibTest\\MLibTest_Components\\Settings\\SettingsModel\\SettingsModel.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\MLibTest\\MLibTest_Components\\Settings\\SettingsModel\\SettingsModel.csproj",
+            "snippet": "Current: netstandard2.0;net40\nNew: net8.0"
+          }
+        },
+        {
+          "incidentId": "736c4801-8031-4d34-abcd-2031fd559344",
+          "ruleId": "Api.0001",
+          "projectPath": "W:\\source\\Careys-Freight\\AvalonDock\\source\\MLibTest\\MLibTest_Components\\Settings\\SettingsModel\\SettingsModel.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\MLibTest\\MLibTest_Components\\Settings\\SettingsModel\\Models\\XML\\Converters\\SecureStringHandler.cs",
+            "snippet": "System.Security.Cryptography.ProtectedData.Unprotect(\r\n\t\t\t\t\tSystem.Convert.FromBase64String(encryptedData),\r\n\t\t\t\t\tentropy,\r\n\t\t\t\t\tSystem.Security.Cryptography.DataProtectionScope.CurrentUser)",
+            "line": 106,
+            "column": 4,
+            "links": [
+              {
+                "title": "API documentation",
+                "url": "https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.protecteddata.unprotect",
+                "isCustom": false
+              }
+            ]
+          }
+        },
+        {
+          "incidentId": "43cec607-ea07-425e-863b-3e8ab7c2c951",
+          "ruleId": "Api.0001",
+          "projectPath": "W:\\source\\Careys-Freight\\AvalonDock\\source\\MLibTest\\MLibTest_Components\\Settings\\SettingsModel\\SettingsModel.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\MLibTest\\MLibTest_Components\\Settings\\SettingsModel\\Models\\XML\\Converters\\SecureStringHandler.cs",
+            "snippet": "System.Security.Cryptography.ProtectedData.Protect(\r\n\t\t\t\t\tSystem.Text.Encoding.Unicode.GetBytes(ToInsecureString(input)),\r\n\t\t\t\t\tentropy,\r\n\t\t\t\t\tSystem.Security.Cryptography.DataProtectionScope.CurrentUser)",
+            "line": 66,
+            "column": 4,
+            "links": [
+              {
+                "title": "API documentation",
+                "url": "https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.protecteddata.protect",
+                "isCustom": false
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\TestApp\\TestApp.csproj",
+      "startingProject": true,
+      "issues": 1,
+      "storyPoints": 1,
+      "ruleInstances": [
+        {
+          "incidentId": "5362c4c8-2f13-4563-9c77-8ade63fe558b",
+          "ruleId": "Project.0002",
+          "projectPath": "W:\\source\\Careys-Freight\\AvalonDock\\source\\TestApp\\TestApp.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\TestApp\\TestApp.csproj",
+            "snippet": "Current: netcoreapp3.0;net5.0-windows;net40\nNew: net8.0-windows"
+          }
+        }
+      ]
+    },
+    {
+      "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\VS2013Test\\VS2013Test.csproj",
+      "startingProject": true,
+      "issues": 1,
+      "storyPoints": 1,
+      "ruleInstances": [
+        {
+          "incidentId": "bbefa28b-8fdd-46e3-abf7-23fb39cdc59a",
+          "ruleId": "Project.0002",
+          "projectPath": "W:\\source\\Careys-Freight\\AvalonDock\\source\\VS2013Test\\VS2013Test.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\VS2013Test\\VS2013Test.csproj",
+            "snippet": "Current: net5.0-windows\nNew: net8.0-windows"
+          }
+        }
+      ]
+    },
+    {
+      "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\WinFormsTestApp\\WinFormsTestApp.csproj",
+      "startingProject": true,
+      "issues": 1,
+      "storyPoints": 1,
+      "ruleInstances": [
+        {
+          "incidentId": "9f82af17-9b97-4316-9bf2-72a2a41002d0",
+          "ruleId": "Project.0002",
+          "projectPath": "W:\\source\\Careys-Freight\\AvalonDock\\source\\WinFormsTestApp\\WinFormsTestApp.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "W:\\source\\Careys-Freight\\AvalonDock\\source\\WinFormsTestApp\\WinFormsTestApp.csproj",
+            "snippet": "Current: netcoreapp3.0;net5.0-windows;net40\nNew: net8.0-windows"
+          }
+        }
+      ]
+    }
+  ],
+  "rules": {
+    "Project.0002": {
+      "id": "Project.0002",
+      "description": "Project\u0027s target framework(s) needs to be changed to the new target framework that you selected for this upgrade.\n\nDuring upgrade target framework will be adjusted to correspinding platform when applicable. In some cases project would result in multiple target frameworks after the upgrade if it was using features that now have their own platforms in moderrn .NET frameworks (windows, iOS, Android etc).",
+      "label": "Project\u0027s target framework(s) needs to be changed",
+      "severity": "Mandatory",
+      "effort": 1,
+      "links": [
+        {
+          "title": "Overview of porting from .NET Framework to .NET",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2265227",
+          "isCustom": false
+        },
+        {
+          "title": ".NET project SDKs",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2265226",
+          "isCustom": false
+        }
+      ]
+    },
+    "NuGet.0001": {
+      "id": "NuGet.0001",
+      "description": "NuGet package is incompatible with selected target framework.\n\nPackage needs to be upgraded to a version supporting selected project target framework. If there no new package versions supporting new target framework, different package needs to be used and all code needs to be upgraded to new API.",
+      "label": "NuGet package is incompatible",
+      "severity": "Mandatory",
+      "effort": 1,
+      "links": [
+        {
+          "url": "https://go.microsoft.com/fwlink/?linkid=2262529",
+          "isCustom": false
+        }
+      ]
+    },
+    "Project.0001": {
+      "id": "Project.0001",
+      "description": "Project file needs to be converted to SDK style. Modern .NET framework projects require a change in the project file format and use SDK corresponding to project flavor and functionality.",
+      "label": "Project file needs to be converted to SDK style",
+      "severity": "Mandatory",
+      "effort": 1,
+      "links": [
+        {
+          "title": "Overview of porting from .NET Framework to .NET",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2265227",
+          "isCustom": false
+        },
+        {
+          "title": ".NET project SDKs",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2265226",
+          "isCustom": false
+        }
+      ]
+    },
+    "NuGet.0002": {
+      "id": "NuGet.0002",
+      "description": "NuGet package upgrade is recommended for selected target framework.\n\nStandard .NET packages are recommended to have versions matching version of .NET that project targets.\n\nSome other packages also are known to work better for selected target frameworks.",
+      "label": "NuGet package upgrade is recommended",
+      "severity": "Potential",
+      "effort": 1,
+      "links": [
+        {
+          "url": "https://go.microsoft.com/fwlink/?linkid=2262530",
+          "isCustom": false
+        }
+      ]
+    },
+    "Api.0001": {
+      "id": "Api.0001",
+      "description": "API does not exist in the selected version of .NET. See breaking changes documentation for alternative or replacement functionality.",
+      "label": "API does not exist",
+      "severity": "Mandatory",
+      "effort": 1,
+      "links": [
+        {
+          "title": "Breaking changes in .NET",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2262679",
+          "isCustom": false
+        }
+      ]
+    }
+  }
+}

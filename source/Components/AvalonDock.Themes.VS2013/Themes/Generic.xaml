@@ -27,7 +27,7 @@
     <Style x:Key="DropDownControlArea" TargetType="avalonDockControls:DropDownControlArea" />
 
     <!--
-	dirkster99: Removing this ToolTip style:
+	Careys-Freight: Removing this ToolTip style:
 	1) As it does not appear to add any additional value?
 	2) As it overwrites other Tooltip styles (eg using MLib in Edi or Aehnlich)
 	
@@ -86,7 +86,7 @@
     </Style>
 
     <!--
-	dirkster99: Removing this ContextMenu style:
+	Careys-Freight: Removing this ContextMenu style:
 	1) As it does not appear to add any additional value?
 	2) As it overwrites other ContextMenu styles (eg using MLib in Edi or Aehnlich)
 	<Style BasedOn="{StaticResource {x:Type ContextMenu}}" TargetType="{x:Type ContextMenu}">

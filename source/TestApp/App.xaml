@@ -1,4 +1,4 @@
-﻿<!--
+<!--
 	************************************************************************
 	AvalonDock
 	
@@ -13,14 +13,15 @@
 	x:Class="TestApp.App"
 	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
 	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:controls="clr-namespace:AvalonDock.Controls;assembly=AvalonDock"
 	ShutdownMode="OnMainWindowClose"
 	StartupUri="MainWindow.xaml">
 	<Application.Resources>
 		<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
 			<Style
-				x:Key="{x:Type LayoutAnchorableFloatingWindowControl}"
-				BasedOn="{StaticResource {x:Type LayoutAnchorableFloatingWindowControl}}"
-				TargetType="{x:Type LayoutAnchorableFloatingWindowControl}" />
+				x:Key="{x:Type controls:LayoutAnchorableFloatingWindowControl}"
+				BasedOn="{StaticResource {x:Type controls:LayoutAnchorableFloatingWindowControl}}"
+				TargetType="{x:Type controls:LayoutAnchorableFloatingWindowControl}" />
 		</ResourceDictionary>
 	</Application.Resources>
 </Application>

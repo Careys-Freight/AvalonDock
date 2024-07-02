@@ -4,7 +4,7 @@
 	xmlns:local="clr-namespace:AvalonDock.Themes.VS2013.Themes"
 	xmlns:reskeys="clr-namespace:AvalonDock.Themes.VS2013.Themes.Menu">
 
-	<!--  Source https://github.com/Dirkster99/MLib/blob/master/source/Components/MLib/Controls/Menu/ContextMenu.xaml  -->
+	<!--  Source https://github.com/Careys-Freight/MLib/blob/master/source/Components/MLib/Controls/Menu/ContextMenu.xaml  -->
 	<ControlTemplate x:Key="MLibMenuItem" TargetType="{x:Type MenuItem}">
 		<ControlTemplate.Resources>
 			<Geometry x:Key="Checkmark">M 0,5.1 L 1.7,5.2 L 3.4,7.1 L 8,0.4 L 9.2,0 L 3.3,10.8 Z</Geometry>

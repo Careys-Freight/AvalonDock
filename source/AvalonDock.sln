@@ -18,7 +18,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvalonDock.Themes.VS2013", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MLibTest_Components", "MLibTest_Components", "{72045D3A-A982-4C69-8FB8-6B601363D7ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Settings", "MLibTest\MLibTest_Components\Settings\Settings\Settings.csproj", "{2807B493-CC2E-402E-901A-EB138698FEDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Settings", "MLibTest\MLibTest_Components\Settings\Settings\Settings.csproj", "{2807B493-CC2E-402E-901A-EB138698FEDC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvalonDock.Themes.VS2010", "Components\AvalonDock.Themes.VS2010\AvalonDock.Themes.VS2010.csproj", "{B3FC3E21-5F2D-4581-AEA2-59F671CFFC21}"
 EndProject
@@ -38,11 +38,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVVMTestApp", "MVVMTestApp\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsTestApp", "WinFormsTestApp\WinFormsTestApp.csproj", "{2433B8AF-0788-4C86-8FDD-E3BCB62E2157}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvalonDocPanelMemoryLeaks", "AvalonDocPanelMemoryLeaks\AvalonDocPanelMemoryLeaks.csproj", "{5543BFED-827A-4404-8066-3FFDB201DDF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvalonDocPanelMemoryLeaks", "AvalonDocPanelMemoryLeaks\AvalonDocPanelMemoryLeaks.csproj", "{5543BFED-827A-4404-8066-3FFDB201DDF0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaliburnDockTestApp", "CaliburnDockTestApp\CaliburnDockTestApp.csproj", "{F8AEE594-DB5E-4DB8-9F45-4969CA5F8EF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VS2013Test", "VS2013Test\VS2013Test.csproj", "{12C5DFE9-27AE-4BAB-9050-617F8A7FC52E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VS2013Test", "VS2013Test\VS2013Test.csproj", "{12C5DFE9-27AE-4BAB-9050-617F8A7FC52E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

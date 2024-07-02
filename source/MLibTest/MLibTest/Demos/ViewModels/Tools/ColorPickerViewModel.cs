@@ -13,7 +13,7 @@
     /// <summary>
     /// Implements the viewmodel that drives the view a Color Picker tool window.
     ///
-    /// https://github.com/Dirkster99/ColorPickerLib
+    /// https://github.com/Careys-Freight/ColorPickerLib
     /// </summary>
     internal class ColorPickerViewModel : ToolViewModel
     {
